@@ -1,0 +1,26 @@
+.content{
+    display: flex; 
+    flex-direction: row;
+
+    justify-content: space-evenly;
+   
+
+}
+
+.right{
+    display: flex;
+    border-top: 100px solid transparent;
+    border-bottom: 100px solid transparent;
+    border-left: 30px solid green;
+    align-self: center;
+    flex-direction: column;
+}
+
+.left{
+    display: flex;
+    border-top: 100px solid transparent;
+    border-bottom: 100px solid transparent;
+    border-right: 30px solid green;
+    align-self: center;
+    flex-direction: column;
+}
