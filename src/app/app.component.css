@@ -1,10 +1,14 @@
 .header{
+    
     display: flex;
     font-family: Lato;
     color: #47525E;
     height: 60px;
+    width: 100%;
     border-bottom: 1px solid #E5E9F2;
-    margin: auto
+    
+    
+   
 }
 
 
