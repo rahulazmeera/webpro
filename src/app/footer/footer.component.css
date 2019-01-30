@@ -1,0 +1,53 @@
+span{
+    color: white;
+}
+.fa-twitter{
+    background:#55ACEE;
+    color:white;
+    margin-right: 20px;
+    float: right;
+    padding: 8px;
+    
+    
+    
+}
+
+
+.fa-google-plus{
+   background:red;
+   color:white;
+   margin-right: 20px;
+   float: right;
+   padding: 8px;
+   
+}
+.fa-youtube{
+   background:red;
+   color:white;
+   margin-right: 20px;
+   float:right;
+   padding: 8px;
+   
+}
+.fa-facebook{
+   background:blue;
+   color:white;
+   margin-right: 20px;
+   float: right;
+   padding: 8px;
+   
+   
+   
+}
+.fa-instagram{
+   background:brown;
+   color:white;
+   margin-right: 20px;
+   float: right;
+   padding: 8px;
+   
+}
+ul{
+    padding-right: 730px;
+    
+}
