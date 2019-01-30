@@ -1,14 +1,17 @@
 <!--The content below is only a placeholder and can be replaced.-->
 
 <div class="header" >
-<div class="btn" fxFlex="20%" >
-<a>AvaCircle</a>
-</div>
-<a fxFlex="8%" routerLink="/Home">Home</a> 
-<a fxFlex="8%" routerLink="/Projects">Projects</a>
-<a fxFlex="8%" routerLink="/Contactus">Contact Us</a>
-</div>
 
+<h3> 
+    <span class="btn">AvaCircle</span>
+    <span  role="button"  routerLink="/Home" id="home"> Home</span> 
+     <span  role="button"  id="projects"
+    routerLink="/projects"> Projects</span>
+    <span role="button" routerLink="/Contactus" id="contact">Contact us</span>
+</h3>
+
+
+</div>
 
 <router-outlet></router-outlet>
 <app-footer></app-footer>

@@ -31,6 +31,16 @@ const appRoutes: Routes = [
   }
   
 ];
+
+
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+
+
+
+
+
+
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -46,7 +56,12 @@ const appRoutes: Routes = [
     AppRoutingModule,
     FlexLayoutModule,
 
+    
+    
+    BrowserAnimationsModule,
+    FlexLayoutModule,
     RouterModule.forRoot(appRoutes)
+
   ],
   providers: [],
   bootstrap: [AppComponent]
