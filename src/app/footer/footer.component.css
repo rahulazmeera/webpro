@@ -51,3 +51,35 @@ ul{
     padding-right: 730px;
     
 }
+
+
+.ftex{
+    color: #F7F7F7;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.femail{
+          background-color: #FFFFFF;
+          border-radius: 5px;
+          width: 253px;
+          height: 50px;
+          color: #8190A5;
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 400;
+  margin-right: 10px
+}
+
+.fbtn{
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    width: 155px;
+    height: 50px;
+    color: #8190A5;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    columns: 0, 0, 12;
+}

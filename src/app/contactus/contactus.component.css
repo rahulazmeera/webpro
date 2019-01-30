@@ -1,37 +1,83 @@
 .textarea{
-    height: 300px;
-    width: 600px;
-    margin-right: 10px;
+  background-color: #FFFFFF;
+  border: 1px solid #8492A6;
+  border-radius: 5px;
+  width: 500px;
+  height: 227.53px;
+  color: #8190A5;
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 400;
+  
 }
 .textbox-2{
-    height: 30px;
-    width: 200px;
-    
-    float: left;
+  background-color: #FFFFFF;
+  border: 1px solid #8492A6;
+  border-radius: 5px;
+  width: 215px;
+  height: 50px;  
+  color: #8190A5;
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 400;
+  text-align: left; 
  
-    
-    
 }
 .textbox-3{
-    height: 30px;
-    width: 200px;
-        float: left;
-        margin-left: 15px;
-        
+    background-color: #FFFFFF;
+    border: 1px solid #8492A6;
+    border-radius: 5px;
+    width: 215px;
+    height: 50px;
+    text-align: left;
+    color: #8190A5;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+ 
 }
-button{
+.btn{
+    background-color: #47525E;
+    border-radius: 5px;
+    width: 192px;
+    height: 50px;
+    color: #FFFFFF;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
     
-        height: 30px;
-        width: 250px;
-            float: left;
-            margin-left: 25px;
-            color: rgb(68, 67, 67);
-            padding: 16px;
-            text-align: center;
     }
 
+    .content{
+        background-color: #E5E9F2;
+        height: 100%;
+        width: 100%;
+        position: fixed;
+        
+    }
     
    
+   .ftr{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
 
 
+.title{
+    color: #47525E;
+    font-family: Lato;
+    font-size: 48px;
+    font-weight: 700;
+    width: 732px;
+    text-align: left;
+    margin-top: 50px;
+}
+
+
+.container{
+    margin-left: 78px
+
+}
 
