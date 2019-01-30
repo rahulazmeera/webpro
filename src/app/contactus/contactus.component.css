@@ -1,0 +1,37 @@
+.textarea{
+    height: 300px;
+    width: 600px;
+    margin-right: 10px;
+}
+.textbox-2{
+    height: 30px;
+    width: 200px;
+    
+    float: left;
+ 
+    
+    
+}
+.textbox-3{
+    height: 30px;
+    width: 200px;
+        float: left;
+        margin-left: 15px;
+        
+}
+button{
+    
+        height: 30px;
+        width: 250px;
+            float: left;
+            margin-left: 25px;
+            color: rgb(68, 67, 67);
+            padding: 16px;
+            text-align: center;
+    }
+
+    
+   
+
+
+
